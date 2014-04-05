@@ -1,0 +1,24 @@
+
+p {color: white;
+	background-color: navy
+	font-family:Arial
+	font-size: 12px;
+	font-size:1.5em;
+	font-size: 100%}
+h {color:white;
+	background-color:green}
+p em{color:red}
+
+
+
+
+
+
+
+
+
+
+
+Link the dbc1.css file to your html file using the "external" method
+Add colors, background colors or fonts of different parts of the page
+Use ids and classes to change specific elements
