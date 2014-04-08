@@ -1,0 +1,35 @@
+
+p {background-color: navy;
+	color:white;}
+h1 {background-color:green;
+color:white;}
+h2 {background-color:green;
+color:white;}
+h3 {background-color:green;
+color:white;}
+li {background-color: navy;
+color:white;}
+head {color:white;}
+p em{color:red}
+body{border: 30px solid;
+background-color:grey}
+#Timberwolves{
+	text-align:right;
+	color:black;
+}
+#wolves_link {
+	color:black;
+	font-weight:bold; 
+	text-align:right;
+}
+#content {
+	padding:10px 80px 10px 10px;
+}
+
+
+
+
+
+Link the dbc1.css file to your html file using the "external" method
+Add colors, background colors or fonts of different parts of the page
+Use ids and classes to change specific elements
