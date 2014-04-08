@@ -9,12 +9,14 @@
 
 }
 #sidebar,h2 {
+	text-align: center;
 	height:80%;
 	width: 200px;
 	float: left;
 	background-color: #d8d8d8
 }
 h3 {
+	text-align: center;
 	background-color: white; 
 	width: 75%; 
 	margin:10px auto 10px auto;
@@ -36,14 +38,23 @@ h3 {
 	color:black;
 }
 .Family-Members{
-	background-color: grey;
+	background-color: #d8d8d8;
 	padding:all 10px;
 	border:all 1px;
 	border-color:black;
 	margin:3px;
 	font-family: lucida;
 	color: black;
-	max-width: 150px
+	min-width: 150px
 
 
+}
+.Jim2John{
+	float: left
+}
+.Sarah2Abby{
+	float:center;
+}
+.Anna2Luke{
+	float: right
 }
