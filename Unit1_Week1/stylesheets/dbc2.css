@@ -1,5 +1,5 @@
 #header {
-	background-color:grey;
+	background-color:#d8d8d8;
 	color:white;
 	height:15%;
 	width:100%;
@@ -10,12 +10,12 @@
 }
 #sidebar {
 	height:80%;
+	width: 20%
 	float: left;
-	background-color: grey
+	background-color: #d8d8d8
 }
-#content {
-	color:white;
-	background-color: black; 
+h2 {
+	background-color: white; 
 	width: 75%; 
 	margin:10px auto 10px auto;
 	float:right;
@@ -23,13 +23,16 @@
 	margin:2px;
 	font-size: 20px;
 }
+#content{
+	float: right;
+}
 #footer {
 	position: absolute;
-	top:400px;
+	top:800px;
 	width:100%;
 	height:5%;
-	background-color: grey;
-	color:grey;
+	background-color:#d8d8d8 ;
+	color:black;
 }
 .Family-Members{
 	background-color: grey;
@@ -39,4 +42,5 @@
 	margin:3px;
 	font-family: lucida;
 	color: black
+
 }
