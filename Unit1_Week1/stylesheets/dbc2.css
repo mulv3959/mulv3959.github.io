@@ -1,14 +1,21 @@
-h1 {
-	background-color:green;
+#header {
+	background-color:grey;
 	color:white;
+	height:15%;
+	width:100%;
+}
+#footer, #sidebar, #content, #header{
+	text-align: center;
+
 }
 #sidebar {
-	height:700px;
+	height:80%;
 	float: left;
+	background-color: grey
 }
 #content {
-	color:#003300;
-	background-color: #FFFFFF; 
+	color:white;
+	background-color: black; 
 	width: 75%; 
 	margin:10px auto 10px auto;
 	float:right;
@@ -19,4 +26,17 @@ h1 {
 #footer {
 	position: absolute;
 	top:400px;
+	width:100%;
+	height:5%;
+	background-color: grey;
+	color:grey;
+}
+.Family-Members{
+	background-color: grey;
+	padding:all 10px;
+	border:all 1px;
+	border-color:black;
+	margin:3px;
+	font-family: lucida;
+	color: black
 }
