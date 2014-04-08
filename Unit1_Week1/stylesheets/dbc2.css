@@ -1,16 +1,16 @@
 #header {
 	background-color:#d8d8d8;
 	color:white;
-	height:15%;
+	height:300px;
 	width:100%;
 }
 #footer, #sidebar, #content, #header{
 	text-align: center;
 
 }
-#sidebar {
+#sidebar,h2 {
 	height:80%;
-	width: 20%
+	width: 200px;
 	float: left;
 	background-color: #d8d8d8
 }
@@ -25,6 +25,7 @@ h3 {
 }
 #content{
 	float: right;
+	width: 500px
 }
 #footer {
 	position: absolute;
@@ -41,6 +42,7 @@ h3 {
 	border-color:black;
 	margin:3px;
 	font-family: lucida;
-	color: black
+	color: black;
+	max-width: 50px
 
 }
