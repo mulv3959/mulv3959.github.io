@@ -3,16 +3,14 @@
 	color:white;
 	height:300px;
 	width:100%;
+	font-size: 40
 }
-#footer, #sidebar, #content, #header{
-	text-align: center;
-
 }
-#sidebar h2 {
-	text-align: center;
-	height:80%;
-	width: 200px;
+#sidebar h2 ul{
 	float: left;
+	text-align: center;
+	height:700px;
+	width: 200px;
 	background-color: #d8d8d8
 }
 #content{
@@ -50,12 +48,9 @@
 
 
 }
-.Family-Members.Jim2John{
-	float: left
+.Family-Members .Jim2Ellie{
+	float: center
 }
-.Family-Members.Sarah2Abby{
-	float:center;
-}
-.Family-Members.Anna2Luke{
-	float: right
+.Family-Members .Mia2Luke{
+	float:right;
 }
