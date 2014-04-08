@@ -6,3 +6,13 @@ h1 {
 	height:700px;
 	float: left;
 }
+#content {
+	color:#003300;
+	background-color: #FFFFFF; 
+	width: 75%; 
+	margin:10px auto 10px auto;
+	float:right;
+	padding: 2px;
+	margin:2px;
+	font-size: 20px;
+}
