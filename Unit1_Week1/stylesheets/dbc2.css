@@ -23,7 +23,7 @@
 }
 
 #content {
-	width:78%;
+	width:77%;
 	float:right;
 	font-size: 20px;
 	height: 700px
@@ -55,5 +55,5 @@ h4 {
 }
 
 figcaption {
-	position: absolute 
+	position: absolute center top
 }
