@@ -13,7 +13,8 @@
 	text-align: center;
 	height:700px;
 	width: 200px;
-	background-color: #d8d8d8
+	background-color: #d8d8d8;
+	color: white
 }
 h3{
 	font-family: lucida
@@ -26,6 +27,10 @@ h3{
 	padding:all 5px;
 	margin:4px;
 	font-size: 20px;
+}
+h4{
+	color: white;
+	font-size:30 text;
 }
 
 #footer {
