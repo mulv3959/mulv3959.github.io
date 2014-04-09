@@ -1,50 +1,43 @@
-body{background-color: white}
-#header {
-	background-color:black;
-	color:white;
-	height:300px;
-	width:100%;
-	font-size: 40 text;
-	text-align: center;
-	font-family: lucida
+#header, #content {
+	background-color: #d8d8d8;
+	padding:3px;
+	margin:1px;
+	border:10px inset: #383838;
 }
-img{
-	padding: all 2px
+
+#sidebar, #footer{
+	background-color: black;
+	color:white;
+	padding:3px;
+	margin:1px;
+	border:10px inset: #383838;
+}
+#header {
+	font-size: 50px
+}
+
+#sidebar {
+	height:700px;
+	float: left;
 }
 #content {
-	background-color: white
-	position:relative;
-	bottom:200px;
-	left:500px;
-	text-align: center; 
-	width: 500px; 
-	padding:all 5px;
-	margin:4px;
-	font-size: 20px;
+	width:70%;
+	float:right;
+	font-size: 20px
 }
+p {width:60%;
+	text-align: center}
 
-#sidebar h2 ul h3 h4{
-	float: left;
-	text-align: center;
-	height:700px;
-	width: 200px;
-	background-color: #d8d8d8;
-	color: white
-}
-h3{
+h2 {
+	font-size: 30px;
 	font-family: lucida
 }
-h4{
-	color: black;
-	font-size:30 text;
+
+h3 {
+	font-size: 20px;
+	color: aqua
 }
 
-#footer {
-	position: absolute;
-	top:800px;
-	width:100%;
-	height:5%;
-	background-color:#d8d8d8 ;
-	color:black;
+h4 {
+	font-size: 30px
 }
-
