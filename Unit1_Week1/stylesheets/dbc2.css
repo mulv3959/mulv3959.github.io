@@ -8,8 +8,20 @@ body{background-color: white}
 	text-align: center;
 	font-family: lucida
 }
+img{
+	padding: all 2px
+}
+#content {
+	text-align: center;
+	background-color: white; 
+	width: 500px; 
+	float:center;
+	padding:all 5px;
+	margin:4px;
+	font-size: 20px;
+}
 
-#sidebar h2 ul{
+#sidebar h2 ul h3 h4{
 	float: left;
 	text-align: center;
 	height:700px;
@@ -23,15 +35,6 @@ h3{
 h4{
 	color: black;
 	font-size:30 text;
-}
-#content {
-	text-align: center;
-	background-color: white; 
-	width: 500px; 
-	float:center;
-	padding:all 5px;
-	margin:4px;
-	font-size: 20px;
 }
 
 #footer {
