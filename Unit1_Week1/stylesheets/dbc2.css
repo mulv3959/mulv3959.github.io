@@ -3,9 +3,11 @@
 	color:white;
 	height:300px;
 	width:100%;
-	font-size: 40
+	font-size: 40 text;
+	text-align: center;
+	font-family: lucida
 }
-}
+
 #sidebar h2 ul{
 	float: left;
 	text-align: center;
@@ -13,18 +15,16 @@
 	width: 200px;
 	background-color: #d8d8d8
 }
-#content{
-	float: right;
-	width: 500px
+h3{
+	font-family: lucida
 }
-#content h3 {
+#content {
 	text-align: center;
 	background-color: white; 
-	width: 75%; 
-	margin:10px auto 10px auto;
+	width: 500px; 
 	float:right;
-	padding: 2px;
-	margin:2px;
+	padding:all 5px;
+	margin:4px;
 	font-size: 20px;
 }
 
@@ -36,21 +36,4 @@
 	background-color:#d8d8d8 ;
 	color:black;
 }
-.Family-Members{
-	background-color: #d8d8d8;
-	padding:all 10px;
-	border:all 1px;
-	border-color:black;
-	margin:3px;
-	font-family: lucida;
-	color: black;
-	min-width: 150px
 
-
-}
-.Family-Members .Jim2Ellie{
-	float: center
-}
-.Family-Members .Mia2Luke{
-	float:right;
-}
