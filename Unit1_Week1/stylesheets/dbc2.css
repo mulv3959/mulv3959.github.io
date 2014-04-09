@@ -13,10 +13,11 @@ img{
 }
 #content {
 	position:relative;
+	bottom:20px;
+	left:50px;
 	text-align: center;
 	background-color: white; 
 	width: 500px; 
-	float:center;
 	padding:all 5px;
 	margin:4px;
 	font-size: 20px;
