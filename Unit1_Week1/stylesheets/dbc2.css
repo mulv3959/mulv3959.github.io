@@ -21,8 +21,9 @@
 	height:700px;
 	float: left;
 }
+
 #content {
-	width:84%;
+	width:82%;
 	float:right;
 	font-size: 20px
 }
