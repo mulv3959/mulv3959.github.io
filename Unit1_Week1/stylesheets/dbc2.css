@@ -25,7 +25,8 @@
 #content {
 	width:83%;
 	float:right;
-	font-size: 20px
+	font-size: 20px;
+	height: 100%
 }
 #footer {
 	clear: both;
