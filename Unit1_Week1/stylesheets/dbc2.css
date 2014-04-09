@@ -23,10 +23,10 @@
 }
 
 #content {
-	width:70%;
+	width:75%;
 	float:right;
 	font-size: 20px;
-	height: 100%
+	height: 700px
 }
 #footer {
 	clear: both;
@@ -40,7 +40,8 @@ p {width:100%;
 
 h2 {
 	font-size: 30px;
-	font-family: lucida
+	font-family: lucida;
+	text-align: center
 }
 
 h3 {
@@ -53,6 +54,6 @@ h4 {
 	font-family: lucida
 }
 
-figcaption {
-	position: top
+figure img {
+	display:inline-block;
 }
