@@ -24,13 +24,13 @@ h3{
 	text-align: center;
 	background-color: white; 
 	width: 500px; 
-	float:right;
+	float:center;
 	padding:all 5px;
 	margin:4px;
 	font-size: 20px;
 }
 h4{
-	color: red;
+	color: black;
 	font-size:30 text;
 }
 
