@@ -12,6 +12,7 @@ img{
 	padding: all 2px
 }
 #content {
+	position:relative;
 	text-align: center;
 	background-color: white; 
 	width: 500px; 
