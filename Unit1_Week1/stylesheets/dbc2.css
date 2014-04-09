@@ -22,9 +22,15 @@
 	float: left;
 }
 #content {
-	width:100%;
+	width:84%;
 	float:right;
 	font-size: 20px
+}
+#footer {
+	clear: both;
+	text-align: center;
+	float:center;
+	
 }
 
 p {width:100%;
@@ -45,9 +51,3 @@ h4 {
 	font-family: lucida
 }
 
-#footer {
-	clear: both;
-	text-align: center;
-	position: absolute;
-	top: 800px
-}
