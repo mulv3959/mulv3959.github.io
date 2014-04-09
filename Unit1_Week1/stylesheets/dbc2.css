@@ -12,11 +12,11 @@ img{
 	padding: all 2px
 }
 #content {
+	background-color: white
 	position:relative;
-	bottom:20px;
-	left:50px;
-	text-align: center;
-	background-color: white; 
+	bottom:200px;
+	left:500px;
+	text-align: center; 
 	width: 500px; 
 	padding:all 5px;
 	margin:4px;
