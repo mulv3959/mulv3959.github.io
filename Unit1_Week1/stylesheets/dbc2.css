@@ -23,7 +23,7 @@
 }
 
 #content {
-	width:75%;
+	width:78%;
 	float:right;
 	font-size: 20px;
 	height: 700px
@@ -54,6 +54,6 @@ h4 {
 	font-family: lucida
 }
 
-figure img {
-	display:inline-block;
+figcaption {
+	position: absolute 
 }
