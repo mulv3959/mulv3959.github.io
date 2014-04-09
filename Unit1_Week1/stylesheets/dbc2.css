@@ -3,6 +3,7 @@
 	padding:3px;
 	margin:1px;
 	border:10px inset: #383838;
+	text-align: center
 }
 
 #sidebar, #footer{
@@ -13,7 +14,7 @@
 	border:10px inset: #383838;
 }
 #header {
-	font-size: 50px
+	font-size: 40px
 }
 
 #sidebar {
@@ -25,6 +26,7 @@
 	float:right;
 	font-size: 20px
 }
+
 p {width:60%;
 	text-align: center}
 
@@ -40,4 +42,10 @@ h3 {
 
 h4 {
 	font-size: 30px
+}
+
+#footer {
+	text-align: center;
+	position: absolute;
+	top: 800px
 }
