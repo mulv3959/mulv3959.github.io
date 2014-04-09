@@ -23,7 +23,7 @@
 }
 
 #content {
-	width:82%;
+	width:83%;
 	float:right;
 	font-size: 20px
 }
@@ -36,6 +36,10 @@
 
 p {width:100%;
 	text-align: center}
+
+h1 {
+	top:30px;
+}
 
 h2 {
 	font-size: 30px;
