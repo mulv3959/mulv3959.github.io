@@ -2,7 +2,7 @@
 	background-color: #d8d8d8;
 	padding:3px;
 	margin:1px;
-	border:10px inset: #383838;
+	border:10px inset: black;
 	text-align: center
 }
 
@@ -11,7 +11,7 @@
 	color:white;
 	padding:3px;
 	margin:1px;
-	border:10px inset: #383838;
+	border:1px inset: #d8d8d8;
 }
 #header {
 	font-size: 40px
