@@ -9,3 +9,6 @@ a {
 	font-family: lucida;
 	color: white
 }
+a:hover {
+	color:#DBDBDB
+}
