@@ -54,6 +54,13 @@ nav li:hover {
 	background: #1C2D3B;
 }
 
+footer {
+	background: #2B4357;
+	width: 100%;
+	color: #E4E9F0;
+	text-align: center
+}
+
 .left_header {
 	background: #2B4357;
 	position: relative;
@@ -77,13 +84,6 @@ nav li:hover {
 	font-family: 'Cinzel', serif;
 	position: relative;
 	width: 50%;
-}
-
-footer {
-	background: #2B4357;
-	width: 100%;
-	color: #E4E9F0;
-	text-align: center
 }
 
 
