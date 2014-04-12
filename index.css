@@ -25,7 +25,11 @@ header {
 nav {
 	display: inline-block;
 	width: 700px;
-
+	padding-left: 150px;
+	padding-right: 150px;
+	border: solid;
+	border-radius: 50px;
+	border-color: #E31441
 }
 
 nav ul {
@@ -52,11 +56,12 @@ nav li:hover {
 
 .left_header {
 	background: #2B4357;
+	position: relative;
 	float:left;
 	text-align: center;
 	color: #E4E9F0;
 	font-family: 'Cinzel', serif;
-	z-index: 10
+	width: 30%
 }
 
 .left_header a:hover {
@@ -69,7 +74,9 @@ nav li:hover {
 	float: right;
 	text-align: center;
 	background: #2B4357;
-	font-family: 'Cinzel', serif
+	font-family: 'Cinzel', serif;
+	position: relative;
+	width: 50%;
 }
 
 footer {
