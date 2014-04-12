@@ -18,7 +18,8 @@ header {
 	height: 70px;
 	font-family: 'Cinzel', serif;
 	display: inline-block;
-	font-size: 30px
+	font-size: 30px;
+	padding: all 10px
 }
 
 nav {
@@ -55,7 +56,7 @@ nav li:hover {
 	text-align: center;
 	color: #E4E9F0;
 	font-family: 'Cinzel', serif;
-	z-index: 2
+	z-index: 10
 }
 
 .left_header a:hover {
