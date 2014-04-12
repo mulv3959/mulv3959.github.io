@@ -1,21 +1,55 @@
 body {
-	background-color: navy;
-	color: white;
-	text-align: center
-}
-
-h1 {
-	font-family: 'Cinzel', serif
+	background: #E4E9F0;
 }
 
 a {
-	font-size: 25px;
-	font-family: lucida;
-	color: white
+	color: #E4E9F0;
+	text-decoration: none;
 }
+
 a:hover {
-	color:#DBDBDB
+	text-decoration: none;
 }
+
+header {
+	width: 100%;
+	position: relative;
+	height: 70px;
+	font-family: 'Cinzel', serif;
+	display: inline-block;
+}
+
+nav {
+	display: inline-block;
+}
+
+nav ul {
+	margin: 1px;
+	border: 1px;
+	padding: 5px
+}
+
+nav li {
+	display: inline-block;
+	background: #2B4357;
+	color: #2B4357;
+	text-align: center;
+}
+
+.left_header {
+	background: #2B4357;
+	float:left;
+	text-align: center;
+	color: #E4E9F0;
+	font-family: 'Cinzel', serif
+}
+
+.left_header a:hover {
+	background: #1C2D3B;
+	font-weight: bold;
+}
+
+
 
 
 font-family: 'Gilda Display', serif;
