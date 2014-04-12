@@ -23,13 +23,15 @@ header {
 
 nav {
 	display: inline-block;
+	width: 700px;
+
 }
 
 nav ul {
 	margin: 1px;
 	border: 1px;
 	padding: 5px;
-	min-width: 700px
+	max-width: 700px
 }
 
 nav li {
@@ -52,7 +54,8 @@ nav li:hover {
 	float:left;
 	text-align: center;
 	color: #E4E9F0;
-	font-family: 'Cinzel', serif
+	font-family: 'Cinzel', serif;
+	z-index: 2
 }
 
 .left_header a:hover {
