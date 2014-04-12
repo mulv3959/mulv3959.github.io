@@ -1,5 +1,6 @@
 body {
 	background: #E4E9F0;
+	color: #2B4357;
 }
 
 a {
@@ -17,6 +18,7 @@ header {
 	height: 70px;
 	font-family: 'Cinzel', serif;
 	display: inline-block;
+	font-size: 30px
 }
 
 nav {
@@ -26,14 +28,23 @@ nav {
 nav ul {
 	margin: 1px;
 	border: 1px;
-	padding: 5px
+	padding: 5px;
+	min-width: 700px
 }
 
 nav li {
 	display: inline-block;
 	background: #2B4357;
-	color: #2B4357;
+	color: #E4E9F0;
 	text-align: center;
+	width: 200px;
+	height: 150px;
+	font-family:'Gilda Display', serif;
+	font-size: 20px
+}
+
+nav li:hover {
+	background: #1C2D3B;
 }
 
 .left_header {
@@ -47,6 +58,21 @@ nav li {
 .left_header a:hover {
 	background: #1C2D3B;
 	font-weight: bold;
+}
+
+.right_header {
+	display: inline-block;
+	float: right;
+	text-align: center;
+	background: #2B4357;
+	font-family: 'Cinzel', serif
+}
+
+footer {
+	background: #2B4357;
+	width: 100%;
+	color: #E4E9F0;
+	text-align: center
 }
 
 
