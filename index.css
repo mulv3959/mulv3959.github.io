@@ -25,6 +25,7 @@ header li {
 	display: inline-block;
 	background: #2B4357;
 	color: #E4E9F0;
+	padding: 10px;
 	border: solid;
 	border-radius: 25px;
 	border-color: #E4E9F0;
