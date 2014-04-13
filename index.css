@@ -25,6 +25,7 @@ header li {
 	display: inline-block;
 	background: #2B4357;
 	color: #E4E9F0;
+	width: 100%;
 	padding: 10px;
 	border: solid;
 	border-radius: 25px;
@@ -35,16 +36,15 @@ header li {
 nav {
 	display: inline-block;
 	width: 700px;
-	padding-left: 150px;
-	padding-right: 150px;
 	border: solid;
 	border-radius: 50px;
-	border-color: #E31441;
-	margin: 30px
+	border-color: #1C2D3B;
+	margin-left: 200px;
+	margin-right: 200px
 }
 
 nav ul {
-	margin: 1px;
+	margin: 5px;
 	border: 1px;
 	padding: 5px;
 	max-width: 700px
@@ -58,7 +58,8 @@ nav li {
 	width: 200px;
 	height: 150px;
 	font-family:'Gilda Display', serif;
-	font-size: 20px
+	font-size: 20px;
+	margin: 10px
 }
 
 nav li:hover {
