@@ -18,14 +18,20 @@ header {
 	height: 70px;
 	font-family: 'Cinzel', serif;
 	display: inline-block;
-	font-size: 30px;
-	padding: all 10px
+	font-size: 35px;
 }
 
 header li {
 	display: inline-block;
 	background: #2B4357;
 	color: #E4E9F0;
+}
+header article {
+	padding: 10px;
+	border: solid;
+	border-radius: 25px;
+	border-color: #E4E9F0;
+	margin: 5px
 }
 
 nav {
