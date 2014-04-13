@@ -32,6 +32,10 @@ header li {
 	margin-right: 40px
 }
 
+header li:hover {
+	background: #1C2D3B;
+	font-weight: bold;
+}
 nav {
 	display: inline-block;
 	width: 700px;
@@ -59,7 +63,8 @@ nav li {
 	height: 150px;
 	font-family:'Gilda Display', serif;
 	font-size: 20px;
-	margin: 10px
+	margin: 10px;
+	border-radius: 25px
 }
 
 nav li:hover {
@@ -72,31 +77,6 @@ footer {
 	color: #E4E9F0;
 	text-align: center;
 	margin-top: 35px
-}
-
-right_header {
-	display: inline-block;
-	float: right;
-	text-align: center;
-	background: #2B4357;
-	font-family: 'Cinzel', serif;
-	position: relative;
-	width: 50%;
-}
-
-left_header {
-	background: #2B4357;
-	position: relative;
-	float:left;
-	text-align: center;
-	color: #E4E9F0;
-	font-family: 'Cinzel', serif;
-	width: 30%
-}
-
-left_header a:hover {
-	background: #1C2D3B;
-	font-weight: bold;
 }
 
 
