@@ -22,35 +22,6 @@ header {
 	padding: all 10px
 }
 
-header.header {
-	display: inline-block;	
-}
-
-header#left_header {
-	background: #2B4357;
-	position: relative;
-	float:left;
-	text-align: center;
-	color: #E4E9F0;
-	font-family: 'Cinzel', serif;
-	width: 30%
-}
-
-header#left_header:hover{
-	background: #1C2D3B;
-	font-weight: bold;
-}
-
-header#right_header {
-	display: inline-block;
-	float: right;
-	text-align: center;
-	background: #2B4357;
-	font-family: 'Cinzel', serif;
-	position: relative;
-	width: 50%;
-}
-
 nav {
 	display: inline-block;
 	width: 700px;
@@ -61,14 +32,14 @@ nav {
 	border-color: #E31441
 }
 
-nav ul.navigation{
+nav ul {
 	margin: 1px;
 	border: 1px;
 	padding: 5px;
 	max-width: 700px
 }
 
-nav li.navigation{
+nav li {
 	display: inline-block;
 	background: #2B4357;
 	color: #E4E9F0;
@@ -79,7 +50,7 @@ nav li.navigation{
 	font-size: 20px
 }
 
-nav li.navigation:hover {
+nav li:hover {
 	background: #1C2D3B;
 }
 
@@ -90,7 +61,30 @@ footer {
 	text-align: center
 }
 
+.left_header {
+	background: #2B4357;
+	position: relative;
+	float:left;
+	text-align: center;
+	color: #E4E9F0;
+	font-family: 'Cinzel', serif;
+	width: 30%
+}
 
+.left_header a:hover {
+	background: #1C2D3B;
+	font-weight: bold;
+}
+
+.right_header {
+	display: inline-block;
+	float: right;
+	text-align: center;
+	background: #2B4357;
+	font-family: 'Cinzel', serif;
+	position: relative;
+	width: 50%;
+}
 
 
 
