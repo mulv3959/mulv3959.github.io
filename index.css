@@ -22,6 +22,22 @@ header {
 	padding: all 10px
 }
 
+header li {
+	display: inline-block;
+	background: #2B4357;
+	color: #E4E9F0
+}
+
+header li #left_header {
+	background: #2B4357;
+	position: relative;
+	float:left;
+	text-align: center;
+	color: #E4E9F0;
+	font-family: 'Cinzel', serif;
+	width: 30%
+}
+
 nav {
 	display: inline-block;
 	width: 700px;
@@ -61,6 +77,16 @@ footer {
 	text-align: center
 }
 
+#right_header {
+	display: inline-block;
+	float: right;
+	text-align: center;
+	background: #2B4357;
+	font-family: 'Cinzel', serif;
+	position: relative;
+	width: 50%;
+}
+
 .left_header {
 	background: #2B4357;
 	position: relative;
@@ -75,17 +101,6 @@ footer {
 	background: #1C2D3B;
 	font-weight: bold;
 }
-
-.right_header {
-	display: inline-block;
-	float: right;
-	text-align: center;
-	background: #2B4357;
-	font-family: 'Cinzel', serif;
-	position: relative;
-	width: 50%;
-}
-
 
 
 
