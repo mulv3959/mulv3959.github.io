@@ -25,17 +25,7 @@ header {
 header li {
 	display: inline-block;
 	background: #2B4357;
-	color: #E4E9F0
-}
-
-header li #left_header {
-	background: #2B4357;
-	position: relative;
-	float:left;
-	text-align: center;
 	color: #E4E9F0;
-	font-family: 'Cinzel', serif;
-	width: 30%
 }
 
 nav {
@@ -77,7 +67,7 @@ footer {
 	text-align: center
 }
 
-#right_header {
+right_header {
 	display: inline-block;
 	float: right;
 	text-align: center;
@@ -87,7 +77,7 @@ footer {
 	width: 50%;
 }
 
-.left_header {
+left_header {
 	background: #2B4357;
 	position: relative;
 	float:left;
@@ -97,10 +87,11 @@ footer {
 	width: 30%
 }
 
-.left_header a:hover {
+left_header a:hover {
 	background: #1C2D3B;
 	font-weight: bold;
 }
+
 
 
 
