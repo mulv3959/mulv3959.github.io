@@ -72,6 +72,8 @@ nav li:hover {
 }
 
 footer {
+	font-size: 20px;
+	font-family: 'Cinzel', serif;
 	background: #2B4357;
 	width: 100%;
 	color: #E4E9F0;
