@@ -1,0 +1,38 @@
+body {
+	background: #E4E9F0;
+	color: #2B4357;
+}
+
+a {
+	color: #E4E9F0;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+header {
+	width: 100%;
+	position: relative;
+	height: 70px;
+	font-family: 'Cinzel', serif;
+	display: inline-block;
+	font-size: 30px;
+}
+
+header li {
+	display: inline-block;
+	background: #2B4357;
+	color: #E4E9F0;
+	padding: 10px;
+	border: solid;
+	border-radius: 25px;
+	border-color: #E4E9F0;
+	margin-right: 40px
+}
+
+header li:hover {
+	background: #1C2D3B;
+	font-weight: bold;
+}
