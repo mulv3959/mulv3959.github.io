@@ -20,6 +20,13 @@ header {
 	font-size: 30px;
 }
 
+header img {
+	border-radius: 40px;
+	height: 150px;
+	width: 110px;
+	margin-top: 10px;
+}
+
 header li {
 	display: inline-block;
 	background: #FAFAFA;
@@ -45,13 +52,6 @@ section {
 	margin-right: auto;
 	margin-left: 30px;
 	margin-bottom: 10px;
-}
-
-section img {
-	border-radius: 40px;
-	height: 150px;
-	width: 110px;
-	margin-top: 10px;
 }
 
 section p {
