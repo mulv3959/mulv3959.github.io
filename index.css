@@ -47,6 +47,10 @@ nav {
 	margin-bottom: 15px;
 }
 
+nav ul {
+	padding-right: none;
+}
+
 nav h2 {
 	text-align: center;
 }
@@ -67,13 +71,8 @@ nav li:hover {
 	font-weight: bold;
 }
 
-nav li p {
-	font-size: 14px
-}
-
 .weekly_work {
 	float: right;
-	padding-right:none;
 }
 
 
