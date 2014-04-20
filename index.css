@@ -60,8 +60,8 @@ section p {
 nav {
 	background: #FAFAFA;
 	display: inline-block;
-	width: 600px;
-	padding-right: 2px;
+	width: 700px;
+	padding: blue;
 	border-right: solid 3px #D9D9D9;
 	margin-left: auto;
 	margin-right: 30px;
