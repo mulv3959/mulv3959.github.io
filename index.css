@@ -38,13 +38,12 @@ header li:hover {
 
 
 nav {
+	background: #AEC0CF;
 	display: inline-block;
 	width: 700px;
 	border: solid;
-	border-radius: 50px;
-	border-color: #1C2D3B;
-	margin-left: 240px;
-	margin-right: 200px;
+	margin-left: auto;
+	margin-right: 50px;
 	margin-top: 60px
 }
 
@@ -57,19 +56,21 @@ nav ul {
 
 nav li {
 	display: inline-block;
-	background: #2B4357;
 	color: #E4E9F0;
 	text-align: center;
-	width: 200px;
-	height: 150px;
+	width: 260px;
+	height: 60px;
 	font-family:'Gilda Display', serif;
 	font-size: 20px;
 	margin: 10px;
-	border-radius: 25px
 }
 
 nav li:hover {
 	background: #1C2D3B;
+}
+
+nav li p {
+	font-size: 14px
 }
 
 footer {
