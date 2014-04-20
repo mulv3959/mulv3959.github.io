@@ -117,7 +117,9 @@ footer a {
 	font-size: 24px;
 	float: right;
 }
-
+.left_header {
+	margin-top: -40px
+}
 
 font-family: 'Gilda Display', serif;
 font-family: 'Cinzel', serif; (has bold)
