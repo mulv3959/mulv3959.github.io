@@ -1,10 +1,10 @@
 body {
-	background: #E8E8E8;
+	background: #FAFAFA;
 	color: #262525;
 }
 
 a {
-	color: #E8E8E8;
+	color: #FAFAFA;
 	text-decoration: none;
 }
 
@@ -23,11 +23,11 @@ header {
 
 header li {
 	display: inline-block;
-	background: #E8E8E8;
+	background: #FAFAFA;
 	color: #262525;
 	padding: 20px;
 	border: 3px solid;
-	border-color: #D9D9D9 #E8E8E8 #D9D9D9 #E8E8E8;
+	border-color: #D9D9D9 #FAFAFA #D9D9D9 #FAFAFA;
 	margin-right: 40px
 }
 
@@ -38,7 +38,7 @@ header li:hover {
 
 
 nav {
-	background: #E8E8E8;
+	background: #FAFAFA;
 	display: inline-block;
 	width: 700px;
 	margin-left: auto;
@@ -72,10 +72,7 @@ nav li p {
 .weekly_work {
 	float: right;
 }
-#week_1 #week_2{
-	border-top: solid 3px #D9D9D9;
-	width:700px;
-}
+
 
 footer {
 	font-size: 20px;
