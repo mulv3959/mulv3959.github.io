@@ -1,10 +1,9 @@
 body {
-	background: #E4E9F0;
-	color: #2B4357;
+	background: #FAFAFA;
+	color: #262525;
 }
 
 a {
-	color: #E4E9F0;
 	text-decoration: none;
 }
 
@@ -23,27 +22,37 @@ header {
 
 header li {
 	display: inline-block;
-	background: #2B4357;
-	color: #E4E9F0;
-	padding: 10px;
-	border: solid;
-	border-radius: 25px;
-	border-color: #E4E9F0;
+	background: #FAFAFA;
+	color: #262525;
+	padding: 20px;
+	border: 3px solid;
+	border-color: #D9D9D9 #FAFAFA #D9D9D9 #FAFAFA;
 	margin-right: 40px
 }
 
 header li:hover {
-	background: #1C2D3B;
+	background: #D9D9D9;
 	font-weight: bold;
 }
 
 footer {
-	font-size: 20px;
+	clear: both;
+	background: #FAFAFA;
+	font-size: 18px;
 	font-family: 'Cinzel', serif;
-	background: #2B4357;
 	width: 100%;
-	color: #E4E9F0;
+	border-top: solid 3px #D9D9D9;
+	border-bottom: solid 3px #D9D9D9;
 	text-align: center;
-	margin-top: 20px;
-	height: 50px
+	height: 24px;
+	margin-bottom: 2px
+}
+
+footer a {
+	color: #262525;
+}
+
+.right_header {
+	font-size: 24px;
+	float: right;
 }
