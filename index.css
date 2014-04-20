@@ -36,9 +36,6 @@ header li:hover {
 	font-weight: bold;
 }
 
-header li .right_header {
-	font-size: 24px
-}
 
 nav {
 	display: inline-block;
@@ -86,7 +83,9 @@ footer {
 	height: 50px
 }
 
-
+.right_header {
+	font-size: 24px
+}
 
 
 font-family: 'Gilda Display', serif;
