@@ -1,6 +1,6 @@
 body {
 	background: #E8E8E8;
-	color: #2B4357;
+	color: #262525;
 }
 
 a {
@@ -24,7 +24,7 @@ header {
 header li {
 	display: inline-block;
 	background: #E8E8E8;
-	color: #2B4357;
+	color: #262525;
 	padding: 20px;
 	border: 3px solid;
 	border-color: #D9D9D9 #E8E8E8 #D9D9D9 #E8E8E8;
@@ -41,7 +41,6 @@ nav {
 	background: #AEC0CF;
 	display: inline-block;
 	width: 700px;
-	border: solid;
 	margin-left: auto;
 	margin-right: 50px;
 	margin-top: 60px
@@ -53,7 +52,7 @@ nav h2 {
 
 nav li {
 	display: inline-block;
-	color: #E8E8E8;
+	color: #262525;
 	text-align: center;
 	width: 260px;
 	height: 60px;
@@ -68,6 +67,14 @@ nav li:hover {
 
 nav li p {
 	font-size: 14px
+}
+
+.weekly_work {
+	float: right;
+}
+#week_1 #week_2{
+	border-top: solid 3px #D9D9D9;
+	width:700px;
 }
 
 footer {
@@ -86,10 +93,6 @@ footer {
 	float: right;
 }
 
-.weekly_work {
-	float: right;
-	border-top: solid 3px #D9D9D9;
-}
 
 font-family: 'Gilda Display', serif;
 font-family: 'Cinzel', serif; (has bold)
