@@ -24,7 +24,6 @@ header img {
 	border-radius: 40px;
 	height: 150px;
 	width: 110px;
-	margin-top: 10px;
 }
 
 header li {
@@ -34,7 +33,7 @@ header li {
 	padding: 20px;
 	border: 3px solid;
 	border-color: #D9D9D9 #FAFAFA #D9D9D9 #FAFAFA;
-	margin-right: 40px
+	margin-right: 30px
 }
 
 header li:hover {
