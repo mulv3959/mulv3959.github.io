@@ -35,6 +35,11 @@ header li:hover {
 	background: #1C2D3B;
 	font-weight: bold;
 }
+
+header li .right_header {
+	font-size: 24px
+}
+
 nav {
 	display: inline-block;
 	width: 700px;
