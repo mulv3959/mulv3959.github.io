@@ -118,7 +118,7 @@ footer a {
 	float: right;
 }
 .left_header {
-	margin-top: -40px
+	clear: right;
 }
 
 font-family: 'Gilda Display', serif;
