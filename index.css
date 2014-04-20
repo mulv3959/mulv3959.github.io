@@ -35,7 +35,10 @@ header li:hover {
 	font-weight: bold;
 }
 
-
+section {
+	float: left;
+	width: 300px;
+}
 nav {
 	background: #FAFAFA;
 	display: inline-block;
