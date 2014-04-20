@@ -83,7 +83,8 @@ footer {
 	width: 100%;
 	border-top: solid 3px #D9D9D9;
 	text-align: center;
-	height: 24px
+	height: 24px;
+	margin: 5px;
 }
 
 footer a {
