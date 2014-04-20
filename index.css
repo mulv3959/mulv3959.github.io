@@ -23,11 +23,11 @@ header {
 
 header li {
 	display: inline-block;
-	background: #2B4357;
-	color: #E4E9F0;
-	padding: 30px;
-	border: top solid;
-	border-color: top #E4E9F0 bottom #E4E9F0;
+	background: #E4E9F0;
+	color: #2B4357;
+	padding: 20px;
+	border: 3px solid;
+	border-color: top #2B4357 bottom #2B4357;
 	margin-right: 40px
 }
 
