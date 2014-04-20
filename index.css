@@ -45,6 +45,10 @@ section {
 	margin-right: auto;
 	margin-left: 30px
 }
+
+section p {
+	font-family:'Gilda Display', serif;
+}
 nav {
 	background: #FAFAFA;
 	display: inline-block;
