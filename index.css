@@ -20,12 +20,6 @@ header {
 	font-size: 30px;
 }
 
-header img {
-	border-radius: 40px;
-	height: 150px;
-	width: 110px;
-}
-
 header li {
 	display: inline-block;
 	background: #FAFAFA;
@@ -35,6 +29,13 @@ header li {
 	border-color: #D9D9D9 #FAFAFA #D9D9D9 #FAFAFA;
 	margin-right: 30px
 }
+
+header img {
+	border-radius: 40px;
+	height: 150px;
+	width: 110px;
+}
+
 
 header li:hover {
 	background: #D9D9D9;
@@ -116,9 +117,6 @@ footer a {
 .right_header {
 	font-size: 24px;
 	float: right;
-}
-.left_header {
-	clear: right;
 }
 
 font-family: 'Gilda Display', serif;
