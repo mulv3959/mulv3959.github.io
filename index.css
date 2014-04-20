@@ -1,6 +1,6 @@
 body {
 	background: #E8E8E8;
-	color: #262525;
+	color: #2B4357;
 }
 
 a {
@@ -24,7 +24,7 @@ header {
 header li {
 	display: inline-block;
 	background: #E8E8E8;
-	color: #262525;
+	color: #2B4357;
 	padding: 20px;
 	border: 3px solid;
 	border-color: #D9D9D9 #E8E8E8 #D9D9D9 #E8E8E8;
@@ -38,9 +38,13 @@ header li:hover {
 
 
 nav {
-	background: #D9D9D9;
+	background: #AEC0CF;
 	display: inline-block;
 	width: 700px;
+	border: solid;
+	margin-left: auto;
+	margin-right: 50px;
+	margin-top: 60px
 }
 
 nav h2 {
@@ -68,10 +72,9 @@ nav li p {
 
 footer {
 	font-size: 20px;
-	background: #D9D9D9 ;
 	font-family: 'Cinzel', serif;
 	width: 100%;
-	color: #262525;
+	color: #2B4357;
 	border-bottom: solid 3px #D9D9D9;
 	text-align: center;
 	margin-top: 20px;
@@ -83,6 +86,10 @@ footer {
 	float: right;
 }
 
+.weekly_work {
+	float: right;
+	border-top: solid 3px #D9D9D9;
+}
 
 font-family: 'Gilda Display', serif;
 font-family: 'Cinzel', serif; (has bold)
