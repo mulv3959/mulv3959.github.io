@@ -47,9 +47,9 @@ section {
 }
 
 section img {
-	border-radius: 30px;
-	width: 150px;
-	height: 150px
+	border-radius: 75px;
+	height: 150px;
+	margin-top: 10px;
 }
 
 section p {
