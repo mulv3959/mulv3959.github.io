@@ -120,7 +120,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-circle {
     width: 70px;
     height: 70px;
-    margin-top: 15px;
+    margin-top: 170px;
     padding: 7px 16px;
     border: 2px solid #fff;
     border-radius: 35px;
@@ -157,7 +157,7 @@ fieldset[disabled] .btn-primary.active {
     -moz-animation-timing-function: linear;
 }
 
-/*.btn-xl {
+.btn-xl {
     padding: 20px 40px;
     border-color: #fed136;
     border-radius: 3px;
@@ -207,7 +207,7 @@ fieldset[disabled] .btn-xl.active {
 .btn-xl .badge {
     color: #fed136;
     background-color: #fff;
-}*/
+}
 
 .navbar-default {
     border-color: transparent;
@@ -338,8 +338,9 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
+        height: 375px;
     }
 
     header .intro-text .intro-lead-in {
